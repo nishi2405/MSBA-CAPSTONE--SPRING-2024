@@ -63,3 +63,10 @@ Moreover, enhanced profitability stems from refined risk assessment and portfoli
 
 5.	Delivering Results Aligned with Business Needs: The results obtained were aligned with Home Credit's business requirements, ensuring that the analysis provided actionable insights to support decision-making processes.
 
+## Attachments
+
+**[EDA Notebook](https://github.com/nishi2405/MSBA-CAPSTONE--SPRING-2024/blob/main/EDA%20NOTEBOOK.ipynb)**
+
+**[Modelling Notebook](https://github.com/nishi2405/MSBA-CAPSTONE--SPRING-2024/blob/main/MODELLING%20NOTEBOOK.ipynb)**
+
+**[Presentation](https://github.com/nishi2405/MSBA-CAPSTONE--SPRING-2024/blob/main/Presentation_Group7.pptx)**
